@@ -46,6 +46,3 @@ class Generate():
         password = "".join(password_chars)
 
         window.result.setText(password)
-
-    def validate(self):
-        pass
